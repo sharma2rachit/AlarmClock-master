@@ -1,2 +1,2 @@
 # AlarmClock-master
- Alarm clock for Csding Ninja
+ Alarm clock for Coding Ninja
